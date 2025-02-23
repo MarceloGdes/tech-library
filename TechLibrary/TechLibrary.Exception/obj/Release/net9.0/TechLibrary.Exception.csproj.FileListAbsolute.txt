@@ -1,0 +1,12 @@
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\bin\Release\net9.0\TechLibrary.Exception.deps.json
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\bin\Release\net9.0\TechLibrary.Exception.dll
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\bin\Release\net9.0\TechLibrary.Exception.pdb
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\obj\Release\net9.0\TechLibrary.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\obj\Release\net9.0\TechLibrary.Exception.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\obj\Release\net9.0\TechLibrary.Exception.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\obj\Release\net9.0\TechLibrary.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\obj\Release\net9.0\TechLibrary.Exception.sourcelink.json
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\obj\Release\net9.0\TechLibrary.Exception.dll
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\obj\Release\net9.0\refint\TechLibrary.Exception.dll
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\obj\Release\net9.0\TechLibrary.Exception.pdb
+C:\Users\Marcelo\Documents\Programação\RocketSeat\NLW_CONNECT\TechLibrary\TechLibrary.Exception\obj\Release\net9.0\ref\TechLibrary.Exception.dll

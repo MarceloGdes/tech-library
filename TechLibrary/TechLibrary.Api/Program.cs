@@ -1,3 +1,5 @@
+using TechLibrary.Api.Filters;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -8,6 +10,7 @@ builder.Services.AddOpenApi();
 
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddMvc(options => options.Filters.Add<ExceptionFilter>());
 
 var app = builder.Build();
 
