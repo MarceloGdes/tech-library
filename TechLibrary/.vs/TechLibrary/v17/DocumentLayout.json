@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\usecases\\checkouts\\registercheckoutbooksusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\checkouts\\registercheckoutbooksusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\usecases\\login\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\login\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\infraestructure\\security\\cryptography\\bcryptalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infraestructure\\security\\cryptography\\bcryptalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\techlibrary.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\techlibrary.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBD03D50-BB52-4F32-AA68-325EB668BC54}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.exception\\invalidloginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBD03D50-BB52-4F32-AA68-325EB668BC54}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\invalidloginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\domain\\entities\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\domain\\entities\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\infraestructure\\security\\tokens\\access\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infraestructure\\security\\tokens\\access\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBD03D50-BB52-4F32-AA68-325EB668BC54}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.exception\\erroronvalidatioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBD03D50-BB52-4F32-AA68-325EB668BC54}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\erroronvalidatioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\services\\loggeduser\\loggeduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\services\\loggeduser\\loggeduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\usecases\\users\\register\\resisteruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\users\\register\\resisteruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\marcelo\\documents\\programa\u00E7\u00E3o\\rocketseat\\nlw_connect\\techlibrary\\techlibrary.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF388F90-FE4F-4582-B3DD-6E5CE43BE803}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Program.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Program.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T01:40:09.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TechLibrary.Api",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\TechLibrary.Api.csproj",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\TechLibrary.Api.csproj",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\TechLibrary.Api.csproj",
-              "RelativeToolTip": "TechLibrary.Api\\TechLibrary.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-23T01:15:48.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ErrorOnValidatioException.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Exception\\ErrorOnValidatioException.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Exception\\ErrorOnValidatioException.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Exception\\ErrorOnValidatioException.cs",
-              "RelativeToolTip": "TechLibrary.Exception\\ErrorOnValidatioException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T01:12:09.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T01:10:21.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BCryptAlgorithm.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T23:27:58.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JwtTokenGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T23:01:07.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T01:10:09.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoLoginUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\UseCases\\Login\\DoLoginUseCase.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Login\\DoLoginUseCase.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\UseCases\\Login\\DoLoginUseCase.cs",
-              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Login\\DoLoginUseCase.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T23:05:48.243Z",
+              "WhenOpened": "2025-02-23T18:52:16.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ExceptionFilter.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAABMAAAAAAAAAA==",
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T01:16:19.971Z",
+              "WhenOpened": "2025-02-23T18:36:27.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResisterUserUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\ResisterUserUseCase.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\ResisterUserUseCase.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\ResisterUserUseCase.cs",
-              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\ResisterUserUseCase.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T01:05:33.853Z",
+              "WhenOpened": "2025-02-23T18:15:44.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggedUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:46:10.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "InvalidLoginException.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Exception\\InvalidLoginException.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Exception\\InvalidLoginException.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Exception\\InvalidLoginException.cs",
-              "RelativeToolTip": "TechLibrary.Exception\\InvalidLoginException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Program.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T23:24:23.668Z",
+              "WhenOpened": "2025-02-23T15:37:18.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterCheckoutBooksUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\UseCases\\Checkouts\\RegisterCheckoutBooksUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Checkouts\\RegisterCheckoutBooksUseCase.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\UseCases\\Checkouts\\RegisterCheckoutBooksUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Checkouts\\RegisterCheckoutBooksUseCase.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAMwCMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:51:15.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:53:05.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutsController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:42:17.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\Checkout.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Domain\\Entities\\Checkout.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\Programa\u00E7\u00E3o\\RocketSeat\\NLW_CONNECT\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\Checkout.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Domain\\Entities\\Checkout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:40:28.041Z",
               "EditorCaption": ""
             }
           ]

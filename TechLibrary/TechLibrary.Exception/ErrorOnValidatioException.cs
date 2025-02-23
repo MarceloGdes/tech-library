@@ -2,13 +2,10 @@
 
 namespace TechLibrary.Exception;
 
-public class ErrorOnValidatioException : TechLibraryException
+public class ErrorOnValidatioException(List<string> errorMessages) : TechLibraryException (string.Empty)
 {
-    private readonly List<string> _errors;
-    public ErrorOnValidatioException(List<string> errorMessages)
-    {
-        _errors = errorMessages;
-    }
+    private readonly List<string> _errors = errorMessages;
+
     public override List<string> GetErrorMessages() => _errors;
 
     public override HttpStatusCode GetStatusCode() => HttpStatusCode.BadRequest;

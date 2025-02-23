@@ -12,7 +12,7 @@ public class JwtTokenGenerator
     {
         var claims = new List<Claim>()
         {
-            new Claim(JwtRegisteredClaimNames.Sub, user.id.ToString()),
+            new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
         };
 
         var tokenDescriptor = new SecurityTokenDescriptor
